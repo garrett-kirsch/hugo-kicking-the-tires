@@ -1,9 +1,7 @@
 # hugo-kicking-the-tires
 
-## Create new website
+This is a simple demo to help me learn how to use hugo. It includes a landing page, an about page with nothing on it, and a copy of one of my resumes.
 
-Enter the following command in the terminal: 
-
-*hugo new site portfolio*
-
-## 
+Key takeaways:
+- This stuff is cool!
+- But I prefer low level programming and HW more... for now.
